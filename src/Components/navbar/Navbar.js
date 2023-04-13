@@ -8,7 +8,6 @@ import name from '../footer/Group 481751.png'
 const Navbar = () => {
     const [toggle,settoggle] = useState(false)
 
-
     return (
         <div className='main md:flex md:items-center md:justify-between pt-4'>
             <div className="flex justify-between items-center">
@@ -29,7 +28,7 @@ const Navbar = () => {
                    <a  className='hover:text-cyan-500 duration-500' href="">About Us</a>
                 </li>
                 <li className='mx-4 my-6 md:my-0'>
-                    <a className='hover:text-cyan-500 duration-500' href="">Feauters</a>
+                    <a className='hover:text-cyan-500 duration-500' href="">Features</a>
                 </li>
                 <li className='mx-4 my-6 md:my-0'>
                    <a  className='hover:text-cyan-500 duration-500' href="">Solution</a>

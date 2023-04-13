@@ -10,6 +10,7 @@ const Header = () => {
             <div className="header py-12">
                 <h2 className=''>MAKE YOUR DREAM <span>WEBSITE</span> <br /> STAND OUT <br /> IN A CROWD</h2>               
             </div>
+            
             {/* anather section */}
             <div className="py-12">
             <div className="section1 flex justify-between flex-wrap py-12 sm:p-3 p-5 ">
