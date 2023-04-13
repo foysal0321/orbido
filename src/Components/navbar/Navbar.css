@@ -1,0 +1,16 @@
+
+
+.main{
+    color: rgb(247, 247, 247);
+    height: 80px;
+}
+ul a{
+    font-size: 17px;
+}
+.name span{
+    color: rgb(223, 146, 38); 
+}
+.name{
+     font-weight: 600;
+    font-size: 20px;
+}
