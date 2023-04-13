@@ -1,0 +1,20 @@
+.about-img{
+    position: relative;
+    margin-top: 200px;
+}
+.last{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -200px;
+}
+.about-text{
+    margin-top: 70px;
+}
+.about-text h2{
+    font-size: 37px;
+    font-weight: 600;
+}
+.about-text p{
+    color: rgb(199, 197, 197);
+    margin-top: 12px;
+}
